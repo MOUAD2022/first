@@ -1,2 +1,0 @@
-# first
-sample project
